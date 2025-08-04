@@ -15,7 +15,7 @@ namespace InheritanceDemo{
         public override void MakeSound(){
             Console.WriteLine("Bark");
         }
-    }
+    } 
 
     class Cat : Animal {
         public override void MakeSound() {
